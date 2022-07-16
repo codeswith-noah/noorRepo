@@ -1,0 +1,76 @@
+body{
+    text-align:center;
+    font-family: 'Montserrat';
+}
+
+h3{
+    letter-spacing:1.5px;
+}
+
+.info-tab{
+    height:70%;
+    width:30%;
+    font-size:inherit;
+    display:inline-block;
+}
+
+.noorplus{
+    visibility:hidden;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+#navbar{
+    overflow: hidden;
+    background-color: goldenrod;
+}
+  
+#navbar a{
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+
+.noorNVLogo{
+    font-weight: bolder;
+    margin-right:890px;
+}
+
+.content{
+    padding: 16px;
+}
+
+.lol{
+    border-color:transparent;
+    background-color: transparent;
+    text-decoration:underline;
+    color:dodgerblue;
+}
+
+.tdn{
+    text-decoration:none; color:gray;
+}
+
+.tdn:hover{
+    transition:0.3;
+    text-decoration:none; color:rgb(77, 76, 76);
+}
+
+.aboutUs{
+    text-align:center;
+    width:60%;
+    margin-top:250px;
+    float:none;
+}
+
+.aboutUs2{
+    text-align:center;
+    width:60%;
+    margin-top:40px;
+    padding:45px;
+}
